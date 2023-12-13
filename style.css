@@ -1,0 +1,41 @@
+img{
+    height: 300px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+h4{
+    font-weight: bold;
+    padding-top: 30px;
+  color: white;
+}
+.bg-color{
+    background-color:#092635 ;
+}
+p,li{
+    color: white;
+}
+.çizgi1{
+    width: 80%;
+    height: 5px;
+    background-color: black;
+
+}
+.çizgi2{
+    width: 20%;
+    height: 10px;
+    background-color: black;
+
+}
+.cizgi{ 
+    width: 30%;
+    height: 10px;
+    background-color: black;
+
+}
+.cizgi1{
+    width: 50%;
+    height: 10px;
+    background-color: black;
+
+
+}
